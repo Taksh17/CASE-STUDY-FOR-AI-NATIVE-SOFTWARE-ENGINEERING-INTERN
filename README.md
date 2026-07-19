@@ -336,11 +336,4 @@ npx expo start
 
 ---
 
-## Author
-
-**Taksh**
-B.Tech Computer Science Engineering
-G.L. Bajaj Institute of Technology and Management
-
----
 
