@@ -1,0 +1,112 @@
+[
+  {
+    "id": "c1",
+    "code": "SAVE20",
+    "description": "Get 20% off on all courses",
+    "discountType": "percentage",
+    "discountValue": 20,
+    "minimumOrder": 500,
+    "expiryDate": "2027-03-31",
+    "applicableCategories": ["All courses"],
+    "status": "active"
+  },
+  {
+    "id": "c2",
+    "code": "FLAT100",
+    "description": "Flat ₹100 off on orders above ₹999",
+    "discountType": "flat",
+    "discountValue": 100,
+    "minimumOrder": 999,
+    "expiryDate": "2027-06-30",
+    "applicableCategories": ["All courses"],
+    "status": "active"
+  },
+  {
+    "id": "c3",
+    "code": "FREESHIP",
+    "description": "Free shipping on any order above ₹299",
+    "discountType": "free_shipping",
+    "discountValue": 0,
+    "minimumOrder": 299,
+    "expiryDate": "2027-12-31",
+    "applicableCategories": ["All courses"],
+    "status": "active"
+  },
+  {
+    "id": "c4",
+    "code": "SCIENCE50",
+    "description": "50% off on Science courses",
+    "discountType": "percentage",
+    "discountValue": 50,
+    "minimumOrder": 300,
+    "expiryDate": "2027-09-15",
+    "applicableCategories": ["Science"],
+    "status": "active"
+  },
+  {
+    "id": "c5",
+    "code": "FLAT250",
+    "description": "Flat ₹250 off on orders above ₹1500",
+    "discountType": "flat",
+    "discountValue": 250,
+    "minimumOrder": 1500,
+    "expiryDate": "2027-04-30",
+    "applicableCategories": ["All courses"],
+    "status": "active"
+  },
+  {
+    "id": "c6",
+    "code": "EXPIRED10",
+    "description": "10% off — this coupon has expired",
+    "discountType": "percentage",
+    "discountValue": 10,
+    "minimumOrder": 200,
+    "expiryDate": "2025-01-01",
+    "applicableCategories": ["All courses"],
+    "status": "expired"
+  },
+  {
+    "id": "c7",
+    "code": "OLDSHIP",
+    "description": "Free shipping — expired offer",
+    "discountType": "free_shipping",
+    "discountValue": 0,
+    "minimumOrder": 100,
+    "expiryDate": "2024-12-31",
+    "applicableCategories": ["All courses"],
+    "status": "expired"
+  },
+  {
+    "id": "c8",
+    "code": "MATH30",
+    "description": "30% off on Mathematics courses",
+    "discountType": "percentage",
+    "discountValue": 30,
+    "minimumOrder": 400,
+    "expiryDate": "2027-08-15",
+    "applicableCategories": ["Mathematics"],
+    "status": "active"
+  },
+  {
+    "id": "c9",
+    "code": "FLAT500",
+    "description": "Flat ₹500 off on premium bundles above ₹3000",
+    "discountType": "flat",
+    "discountValue": 500,
+    "minimumOrder": 3000,
+    "expiryDate": "2027-11-30",
+    "applicableCategories": ["Premium", "Bundles"],
+    "status": "active"
+  },
+  {
+    "id": "c10",
+    "code": "OLDDEAL",
+    "description": "Flat ₹75 off — expired promo",
+    "discountType": "flat",
+    "discountValue": 75,
+    "minimumOrder": 500,
+    "expiryDate": "2025-06-30",
+    "applicableCategories": ["Science", "Mathematics"],
+    "status": "expired"
+  }
+]
