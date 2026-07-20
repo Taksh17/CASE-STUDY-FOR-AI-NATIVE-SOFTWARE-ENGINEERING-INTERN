@@ -188,21 +188,13 @@ Step 7: Return success result
 ## AI-Assisted Development
 
 ### Tools Used
-
 - **GitHub Copilot (Agent Mode)** — Primary development tool. Used for architecture scaffolding, screen implementation, validation engine design, and production-readiness audits.
 
 - **ChatGPT** — Used for reviewing architectural decisions, exploring alternative patterns, and validating edge case handling.
 
-- **Claude**-
+- **Claude** — Used for improving code readability, suggesting cleaner component organization, and refining naming conventions for better maintainability.
 
-Used to review code readability.
-Suggested cleaner component structure and naming.
-
--**Google Gemini**-
-
-Helped generate sample test data.
-Suggested UI text and feature ideas.
-Assisted with improving code explanations.
+- **Google Gemini** — Used for generating sample test data, suggesting UI content and feature ideas, and improving code explanations during development.
 
 ### Example Prompts
 
