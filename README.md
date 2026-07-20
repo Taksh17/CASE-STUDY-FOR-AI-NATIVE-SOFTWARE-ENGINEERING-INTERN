@@ -193,6 +193,17 @@ Step 7: Return success result
 
 - **ChatGPT** — Used for reviewing architectural decisions, exploring alternative patterns, and validating edge case handling.
 
+- **Claude**-
+
+Used to review code readability.
+Suggested cleaner component structure and naming.
+
+-**Google Gemini**-
+
+Helped generate sample test data.
+Suggested UI text and feature ideas.
+Assisted with improving code explanations.
+
 ### Example Prompts
 
 1. *"Create a scalable folder structure for a React Native Expo Coupon Engine app with TypeScript, React Navigation, Context API, mock API service, and reusable components."*
